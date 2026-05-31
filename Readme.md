@@ -34,4 +34,4 @@ waterMark/
 
 原作者：https://github.com/internelp/waterMark
 
-Update by aiyaya2004:https://github.com/aiyaya2004/waterMark-fro-php8
+Update by RONGYAN:https://github.com/aiyaya2004/waterMark-fro-php8
