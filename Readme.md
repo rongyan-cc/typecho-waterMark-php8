@@ -31,4 +31,5 @@ waterMark/
 - 解决 PHP 8.0+ 报 `Deprecated: Optional parameter declared before required parameter` 警告的问题
 - 修复因该警告导致 Typecho 上传图片后 JSON 响应被污染、前端提示"上传失败"的 bug
 
-访问：https://www.appgao.com/Programming/typecho-watermark.html
+原作者：https://github.com/internelp/waterMark
+Update by aiyaya2004:https://github.com/aiyaya2004/waterMark-fro-php8
