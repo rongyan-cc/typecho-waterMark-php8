@@ -25,4 +25,10 @@ waterMark/
 - 增加了 2x 水印的支持
 - 支持小图片不加水印
 
+**2026-5-31**
+- 兼容 PHP 8.0+
+- 修复 `ImgWaterMark()` 函数参数顺序：将必选参数 `$w_pct`、`$w_quality` 移至可选参数之前
+- 解决 PHP 8.0+ 报 `Deprecated: Optional parameter declared before required parameter` 警告的问题
+- 修复因该警告导致 Typecho 上传图片后 JSON 响应被污染、前端提示"上传失败"的 bug
+
 访问：https://www.appgao.com/Programming/typecho-watermark.html
